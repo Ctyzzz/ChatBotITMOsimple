@@ -1,0 +1,7 @@
+python-telegram-bot>=20
+python-dotenv
+requests
+beautifulsoup4
+lxml
+pdfminer.six
+scikit-learn
