@@ -4,7 +4,7 @@ How to start:
 1. python -m venv venv
 2. with Windows PowerShell:
 .\venv\Scripts\Activate.ps1
-   with macOS/Linux:
+   | with macOS/Linux:
   source venv/bin/activate
 3. pip install -r requirements_telegram.txt
 4. python telegram_bot.py
